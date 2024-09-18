@@ -17,8 +17,8 @@ window.onload = function () {
   var messages = [
     "Hey there 👋",
     "I'm Joaquin Metayer",
-    "A nerd Software Engineer.",
-    "Writing on my <a target='_blank' href='https://joaquinmetayer.github.io/blog/'>blog</a><br>",
+    "Software Engineer focused<br>in React development.",
+    "Writing on my <a target='_blank' href='https://joaquinmetayer.github.io/blog/'>blog</a>",
     "Creating on <a target='_blank' href='https://github.com/joaquinmetayer/'>GitHub</a>",
     "Working at <a target='_blank' href='https://www.instagram.com/bitlogic.io/'>@bitlogic.io</a>",
     "Find me on <a target='_blank' href='https://www.linkedin.com/in/joaquinmetayer/'>LinkedIn</a> or <a target='_blank' href='mailto:joaquinmetayer@gmail.com'>email</a>",
